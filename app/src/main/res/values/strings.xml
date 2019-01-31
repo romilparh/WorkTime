@@ -12,4 +12,5 @@
     <string name="exportData">Export Data to Storage</string>
     <string name="tools">Tools</string>
     <string name="home">Home</string>
+    <string name="totalTimeWorked">Total Time Worked(This Week): </string>
 </resources>
