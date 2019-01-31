@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorkTime</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">WorkTime</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout_user">Logout</string>
+    <string name="dailyData">Daily Data</string>
+    <string name="weeklyData">Weekly Data</string>
+    <string name="exportData">Export Data to Storage</string>
+    <string name="tools">Tools</string>
+    <string name="home">Home</string>
+</resources>
